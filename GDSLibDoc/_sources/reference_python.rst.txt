@@ -1,0 +1,33 @@
+#############
+API Reference
+#############
+
+
+*********************
+ElementStructures
+*********************
+
+PolygonSet
+==========
+
+.. autoclass:: ElementStructures.PolygonSet
+   :members:
+   :inherited-members:
+   :show-inheritance:
+   :noindex:
+
+Path
+==========
+.. autoclass:: ElementStructures.Path
+   :members:
+   :inherited-members:
+   :show-inheritance:
+   :noindex:
+
+Waveguide
+==========
+.. autoclass:: ElementStructures.Waveguide
+   :members:
+   :inherited-members:
+   :show-inheritance:
+   :noindex:
